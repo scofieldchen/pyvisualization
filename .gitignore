@@ -1,0 +1,13 @@
+.vscode
+
+.ipynb_checkpoints
+
+logs
+
+.log
+
+.log.*
+
+__pycache__
+
+.pytest_cache
